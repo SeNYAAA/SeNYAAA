@@ -1,0 +1,13 @@
+C:\Users\Семень-пельмень\source\repos\krug\krug\bin\Debug\netcoreapp3.1\krug.exe
+C:\Users\Семень-пельмень\source\repos\krug\krug\bin\Debug\netcoreapp3.1\krug.deps.json
+C:\Users\Семень-пельмень\source\repos\krug\krug\bin\Debug\netcoreapp3.1\krug.runtimeconfig.json
+C:\Users\Семень-пельмень\source\repos\krug\krug\bin\Debug\netcoreapp3.1\krug.runtimeconfig.dev.json
+C:\Users\Семень-пельмень\source\repos\krug\krug\bin\Debug\netcoreapp3.1\krug.dll
+C:\Users\Семень-пельмень\source\repos\krug\krug\bin\Debug\netcoreapp3.1\krug.pdb
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.csproj.AssemblyReference.cache
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.AssemblyInfoInputs.cache
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.AssemblyInfo.cs
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.csproj.CoreCompileInputs.cache
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.dll
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.pdb
+C:\Users\Семень-пельмень\source\repos\krug\krug\obj\Debug\netcoreapp3.1\krug.genruntimeconfig.cache
